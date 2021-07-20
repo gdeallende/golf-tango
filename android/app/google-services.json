@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "153752268313",
+    "project_id": "golf-and-tango",
+    "storage_bucket": "golf-and-tango.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153752268313:android:f031e5a2599a01dfe04488",
+        "android_client_info": {
+          "package_name": "tango.com.golfandtango"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153752268313-8uen9p21ghs1l9rc48mptbs6ibc1lih1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWhjws6Bwx_JfD_JiSQy9Il0BD8eAkRrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153752268313-8uen9p21ghs1l9rc48mptbs6ibc1lih1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
